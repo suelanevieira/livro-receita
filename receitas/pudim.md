@@ -1,8 +1,8 @@
 # Pudim:
-### ingredientes
+### Ingredientes
 1 lata de leite moça
 2 ovos
-1 chicara de açucar
+1 de açucar
 1 copo de leite
 1/2 de água
 
